@@ -6,6 +6,8 @@ But there's a twist! The AI doesn't respond in human language—it communicates 
 
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b083ea6d-4cb7-46cc-92d1-9b711fd1118c/deploy-status)](https://app.netlify.com/sites/fishai/deploys)
+
 ## 🎯 Main Idea
 This project is just for fun—a parody of AI chatbots in the crypto space. Instead of providing insightful answers, the AI behaves as if it's underwater and only says things like:
 - *"Blub blub bluuub!"*
